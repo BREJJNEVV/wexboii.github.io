@@ -21,33 +21,27 @@
 
 ## My Skill Set
 
-
-<div>
-  <img src="ссылка_на_иконку_1" width="40" style="display: inline-block; margin: 5px;" />
-  <img src="ссылка_на_иконку_2" width="40" style="display: inline-block; margin: 5px;" />
-  <img src="ссылка_на_иконку_3" width="40" style="display: inline-block; margin: 5px;" />
-</div>
-
-<div style="display: flex; gap: 10px;">
-  <img src="ссылка_на_иконку_1" width="40" />
-  <img src="ссылка_на_иконку_2" width="40" />
-  <img src="ссылка_на_иконку_3" width="40" />
-</div>
-
-<table>
-  <tr>
-    <td><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" width="40" /></td>
-    <td><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" width="40" /></td>
-    <td><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" width="40" /></td>
-  </tr>
-</table>
-
 ## 🛠️ Tech Stack
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </div>
+
+
+## 🛠️ Tech Stack
+<div align="center" style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+</div>
+
 
 ### Frontend  
 <div align="center">  
