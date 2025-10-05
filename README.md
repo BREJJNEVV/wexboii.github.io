@@ -62,28 +62,6 @@
 
 <br/>  
 
-
-## Connect with me  
-  
-
-<br/>  
-
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=BREJJNEVV&&style=flat-square" align="center" />
 </div>  
