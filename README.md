@@ -21,6 +21,19 @@
 
 ## My Skill Set
 
+
+<div>
+  <img src="ссылка_на_иконку_1" width="40" style="display: inline-block; margin: 5px;" />
+  <img src="ссылка_на_иконку_2" width="40" style="display: inline-block; margin: 5px;" />
+  <img src="ссылка_на_иконку_3" width="40" style="display: inline-block; margin: 5px;" />
+</div>
+
+<div style="display: flex; gap: 10px;">
+  <img src="ссылка_на_иконку_1" width="40" />
+  <img src="ссылка_на_иконку_2" width="40" />
+  <img src="ссылка_на_иконку_3" width="40" />
+</div>
+
 <table>
   <tr>
     <td><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" width="40" /></td>
